@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1062489322739",
+    "project_id": "wevent-e0d18",
+    "storage_bucket": "wevent-e0d18.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062489322739:android:1148e5ead99cc241523386",
+        "android_client_info": {
+          "package_name": "com.example.wevent3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGaQRaqpEHJsGqi9iOOkdj9qreoCnBIlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

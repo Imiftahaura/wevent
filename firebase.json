@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "wevent-e0d18",
+          "appId": "1:1062489322739:android:1148e5ead99cc241523386",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "wevent-e0d18",
+          "configurations": {
+            "android": "1:1062489322739:android:1148e5ead99cc241523386",
+            "ios": "1:1062489322739:ios:a1829c41bf584408523386",
+            "macos": "1:1062489322739:ios:a1829c41bf584408523386",
+            "web": "1:1062489322739:web:3fb499bbc0a56e13523386",
+            "windows": "1:1062489322739:web:ba2e8ebd7f8f6ef8523386"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        
+      ]
+    }
+  ]
+}
